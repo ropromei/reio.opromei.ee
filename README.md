@@ -6,13 +6,25 @@ To keep things simple I have used [Vite](https://vitejs.dev/) with [TypeScript](
 
 ## Running development server
 
+**NB!** Change directory to reio.opromei.ee!
+
 ~~~bash
+# changing directory to project directory
+cd reio.opromei.ee/
+
 # Running Vite development server
 npm run dev
 ~~~
 
 ## Building project
 
+**NB!** Change directory to reio.opromei.ee!
+
 ~~~bash
+# changing directory to project directory
+cd reio.opromei.ee/
+
+# Running Vite builder with tsc
+# Default out directory is dist/
 npm run build
 ~~~
