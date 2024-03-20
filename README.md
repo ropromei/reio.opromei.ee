@@ -1,3 +1,7 @@
+**Deprecated** - new reporitory [
+https://github.com/ropromei/ropromei.github.io](
+https://github.com/ropromei/ropromei.github.io)
+
 # Personal website project
 
 This repository is just for my personal website project on [reio.opromei.ee](https://reio.opromei.ee/).
